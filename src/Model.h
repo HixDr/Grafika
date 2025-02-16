@@ -4,7 +4,6 @@
 #include <GL/glew.h>
 #include <vector>
 #include <string>
-#include <glm/glm.hpp>
 #include "Shader.h"
 #include <fstream>
 #include <sstream>
